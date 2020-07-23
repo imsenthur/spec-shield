@@ -14,7 +14,7 @@ The entire design space is explored for curves that prevent undesirable reflecti
 # Preliminary design
 
 ## Design variables:
-* Width of frame, fw = 67.5mm
+* Width of frame, 2*fw = 67.5mm
 * Mounting offset, fh = 20mm
 * Mounting point (x), mx = 10mm to 30mm
 * Mounting point (y), my = 15mm
