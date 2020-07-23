@@ -13,8 +13,7 @@ The entire design space is explored for curves that prevent undesirable reflecti
 
 # Preliminary design
 
-Design variables:
-
+## Design variables:
 * Width of frame, fw = 67.5mm
 * Mounting offset, fh = 20mm
 * Mounting point (x), mx = 10mm to 30mm
@@ -23,10 +22,18 @@ Design variables:
 ![preliminary-design](images/iso_sketch.png)
 
 # 3D Printed components
+
+## Parameters:
+* Layer height = 0.12mm
+* Nozzle diameter = 0.4mm
+* Infill = 100%
+
 G-codes can be found here: [gcodes](gcode)
+
 ![parts](images/parts.jpg)
 ![sub-assembly](images/sub-assembly.jpg)
 
 # spec-shield
 ![spec-shield](images/spec-shield.jpg)
 
+This is merely a working prototype and contributions are welcome.
